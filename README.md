@@ -2,6 +2,13 @@
 
 # API Estação Motos
 
+Produzido pelos alunos: Ana Beatriz Gonçalves dos Santos
+                        Gabriel Lasinskais
+                        Geovanna Alves Saccoccio
+                        Giovanna Samille
+                        
+
+
 API REST desenvolvida em Node.js, Express e MongoDB para gerenciamento de motos da oficina Estação Motos.
 
 ## Tecnologias Utilizadas
